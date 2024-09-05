@@ -1,0 +1,23 @@
+[{
+  
+  "name" : "רועי משה",
+  
+  "email" : "roem@gmail.com",
+  "avatar": " ",
+  "password": "abdc1234",
+  "phone": "0525334477",
+  "isActive":  true,
+  "premission" :  "user"
+   
+  },
+  {
+    "item": "מזוזה 12",
+    "img":"https://www.judaica-il.com/content/images/thumbs/0001512_-12-_600.jpeg",
+    "category": "מזוזות",
+    "barcode": "M012",
+    "size": "12",
+    "quantity": 17,
+    "price": 400,
+    "description": "מזוזה בכתב ספרדי מהודר, לאחר הגההת מחשב.",
+    "isActive": true
+}]
